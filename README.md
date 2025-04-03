@@ -8,7 +8,7 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Security Audit  | compliance Knowledge, Risk Management  | control and compliance checklist|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Security Audit  | compliance Knowledge, Risk Management  | control and compliance checklist|  <a href="https://github.com/kippza/security_audit/blob/main/README.md">Security audit</a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
