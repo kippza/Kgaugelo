@@ -10,6 +10,7 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Security Audit  | compliance Knowledge, Risk Management  | control and compliance checklist|  <a href="https://github.com/kippza/security_audit/blob/main/README.md">Security audit</a>   |
 |                 |                                       |                 |                 |
+| Analyse network  | Analysis, Risk Management  | tcpdump log |  <a href="https://github.com/kippza/Analyzing-network-layer/blob/main/README.md">Analysis of network</a>  
 |                 |                                       |                 |                 |
 
 
