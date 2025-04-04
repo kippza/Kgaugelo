@@ -19,4 +19,4 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| Introduction to cyber security     |                2023             |     xxx        | 
+| Introduction to cyber security     |                2023             |    <a href="https://www.credly.com/badges/568e053f-bf64-4176-92bb-f4d71d7bc758">CISCO BADGE</a>          | 
