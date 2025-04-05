@@ -14,6 +14,8 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Activity: Analyze network attacks  | Analysis, Risk Management  | wireshark |  <a href="https://github.com/kippza/NETWORK-incident-report">Analysis of network</a>  
 |                 |                                       |                 |                 |
+| Activity: Security Incident Report Analysis  | Analysis, Risk Management  | wireshark |  <a href="https://github.com/kippza/security-incident-response/blob/main/README.md">Incident Response Report</a>  
+|                 |                                       |                 |
 
 # Certifications 
 
