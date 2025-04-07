@@ -16,6 +16,8 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Activity: Security Incident Report Analysis  | Analysis, Risk Management  | wireshark |  <a href="https://github.com/kippza/security-incident-response/blob/main/README.md">Incident Response Report</a>  
 |                 |                                       |                 |
+| Security-Risk-Assessment  | network hardening and network security-related hardening practices | Analysis |  <a href="https://github.com/kippza/Security-Risk-Assessment--Network-Hardening-Mearsures">Network Hardening Measures</a>  
+|                 |                                       |                 |                 |
 
 # Certifications 
 
