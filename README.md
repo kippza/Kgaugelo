@@ -20,6 +20,8 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Cybersecurity incident Response  | cunducting an incident report  | NIST CSF |  <a href="https://github.com/kippza/Cybersecurity-incident-report/blob/main/README.md">INCIDENT REPORT</a>  
 |                 |                                       |                 |                 |
+| Using Linux Commands  | Managing files  | Linux Shell |  <a href="https://github.com/kippza/Using-Linux-commands-Managing-Files">Linux Commands : Managing Files</a>  
+|                 |                                       |                 |                 |
 
 # Certifications 
 
