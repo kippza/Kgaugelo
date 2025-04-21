@@ -22,10 +22,13 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Using Linux Commands  | Managing files  | Linux Shell |  <a href="https://github.com/kippza/Using-Linux-commands-Managing-Files">Linux Commands : Managing Files</a>  
 |                 |                                       |                 |                 |
+| Using SQL to apply filters  | SQL QUERYING  | Linux Shell + DB |  <a href="https://github.com/kippza/Apply-filters-to-SQL-queries-/blob/main/README.md">Applying filters to SQL queries</a>  
+|                 |                                       |                 |                 |
 
 # Certifications 
 
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
+| Software Development NQF5    |                2022             |    <a href="">Cert</a>          | 
 | Introduction to cyber security     |                2023             |    <a href="https://www.credly.com/badges/568e053f-bf64-4176-92bb-f4d71d7bc758">CISCO BADGE</a>          | 
