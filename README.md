@@ -24,6 +24,10 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Using SQL to apply filters  | SQL QUERYING  | Linux Shell + DB |  <a href="https://github.com/kippza/Apply-filters-to-SQL-queries-/blob/main/README.md">Applying filters to SQL queries</a>  
 |                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+| Vulnerability Assesment Report  | Vulnerability Management | NIST |  <a href="https://github.com/kippza/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment</a>  
+|                 |                                       |                 |                 |
+
 
 # Certifications 
 
