@@ -27,7 +27,8 @@ Hi, I'm Kgaugelo and this is my Cyber Security Portfolio. I am currently seeking
 |                 |                                       |                 |                 |
 | Vulnerability Assesment Report  | Vulnerability Management | NIST |  <a href="https://github.com/kippza/Vulnerability-Assessment-Report/blob/main/README.md">Vulnerability Assessment</a>  
 |                 |                                       |                 |                 |
-
+| Incident handler's Journal  | Incident Response | Incident Journal |  <a href="https://github.com/kippza/Incident-Handler-s-report/edit/main/README.md">Vulnerability Assessment</a>  
+|                 |                                       |                 |                 |
 
 # Certifications 
 
